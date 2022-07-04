@@ -52,3 +52,15 @@ D:\Fors projects\ConferencePlanner5.0\obj\Debug\net5.0\refint\ConferencePlanner5
 D:\Fors projects\ConferencePlanner5.0\obj\Debug\net5.0\ConferencePlanner5.0.pdb
 D:\Fors projects\ConferencePlanner5.0\obj\Debug\net5.0\ConferencePlanner5.0.genruntimeconfig.cache
 D:\Fors projects\ConferencePlanner5.0\obj\Debug\net5.0\ref\ConferencePlanner5.0.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NJsonSchema.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NSwag.Core.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\YamlDotNet.dll
+D:\Fors projects\ConferencePlanner5.0\obj\Debug\net5.0\ConferencePlanner5.0.MvcApplicationPartsAssemblyInfo.cs
+D:\Fors projects\ConferencePlanner5.0\bin\Debug\net5.0\nunit.framework.dll
