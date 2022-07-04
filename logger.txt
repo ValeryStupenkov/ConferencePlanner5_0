@@ -1,0 +1,43 @@
+Now listening on: https://[::]:443
+Now listening on: http://[::]:80
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: /app
+Processing request /
+Processing request /favicon.ico
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Fors projects\ConferencePlanner5.0
+Processing request /
+Processing request /favicon.ico
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Fors projects\ConferencePlanner5.0
+Processing request /
+Processing request /favicon.ico
+Processing request /graphql
+Processing request /favicon.ico
+Processing request /graphql
+Processing request /favicon.ico
+Processing request /graphql
+Processing request /favicon.ico
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Fors projects\ConferencePlanner5.0
+Processing request /
+Processing request /favicon.ico
+Processing request /graphql
+Processing request /favicon.ico
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\Fors projects\ConferencePlanner5.0
+Processing request /
+Processing request /favicon.ico
